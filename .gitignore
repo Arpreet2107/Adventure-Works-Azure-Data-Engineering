@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.parquet
+*.csv
+*.json
+
+# Local environment / secrets
+.env
+*.env
+
+# Azure credentials / secrets
+*secret*
+*credentials*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+
+# Logs
+*.loggit add .
